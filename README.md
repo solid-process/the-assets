@@ -2,7 +2,7 @@
 
 This collection of assets can be used to promote/refer to the Solid Process project.
 
-You can access the `images` folder to download pictures in different formats (jpg, png, svg).
+You can access the [`images`](/images) folder to download pictures in different formats (jpg, png, svg).
 
 ## Available logos
 
