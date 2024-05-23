@@ -2,18 +2,36 @@
 
 This collection of assets can be used to promote/refer to the Solid Process project.
 
-You can access the [`images`](/images) folder to download pictures in different formats (jpg, png, svg).
+You can access the [`images`](/images) folder to download the pictures.
 
 ## Available logos
 
+### Sticker version
 <table>
   <tr>
-    <td><img src="./images/jpg/solid-process.jpg" width="400"/></td>
-    <td><img src="./images/jpg/solid-process-hb.jpg" width="400"/></td>
+    <td bgcolor="black"><img src="./images/png/solid-process_sticker_a01.png" width="400"/></td>
+    <td bgcolor="black"><img src="./images/png/solid-process_sticker_b01.png" width="400"/></td>
+    <td bgcolor="black"><img src="./images/png/solid-process_sticker_b02.png" width="400"/></td>
   </tr>
+</table>
+
+### Black version (transparent background)
+
+<table>
   <tr>
-    <td><img src="./images/jpg/solid-process-hw.jpg" width="400"/></td>
-    <td><img src="./images/jpg/solid-process-hwd.jpg" width="400"/></td>
+    <td bgcolor="white"><img src="./images/png/solid-process_tblack_a01.png" width="400"/></td>
+    <td bgcolor="white"><img src="./images/png/solid-process_tblack_b01.png" width="400"/></td>
+    <td bgcolor="white"><img src="./images/png/solid-process_tblack_b02.png" width="400"/></td>
+  </tr>
+</table>
+
+### White version (transparent background)
+
+<table>
+  <tr>
+    <td bgcolor="black"><img src="./images/png/solid-process_twhite_a01.png" width="400"/></td>
+    <td bgcolor="black"><img src="./images/png/solid-process_twhite_b01.png" width="400"/></td>
+    <td bgcolor="black"><img src="./images/png/solid-process_twhite_b02.png" width="400"/></td>
   </tr>
 </table>
 
